@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Digging Coroutine</string>
+    <string name="empty_title">Empty Content</string>
+    <string name="welcome">Welcome</string>
+    <string name="feature_request">with Request</string>
+    <string name="error_title">Ops! We got an errorr!!!</string>
+    <string name="start_process">Start Process</string>
+    <string name="feature_process">with process</string>
+    <string name="cancel_process">Cancel</string>
+    <string name="start_multi_process">start multi process</string>
+    <string name="feature_multi_process">with multi process</string>
+    <string name="cancel_job_one">Cancel Job One</string>
+    <string name="cancel_job_two">Cancel Job Two</string>
+    <string name="cancel_all_scope">Cancel All Scope</string>
+    <string name="job_one">Job One</string>
+    <string name="job_two">Job Two</string>
+    <string name="okay">OK</string>
+    <string name="home_screen_label">Home</string>
+    <string name="request_screen_label">Request</string>
+    <string name="single_process_screen_label">Single Process</string>
+    <string name="multi_process_screen_label">Multi Process</string>
+    <string name="request_news_title">News</string>
+
+    <string name="heading_sample">Sounds Great, Where Do I Start?</string>
+    <string name="paragraph_sample">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+</resources>
