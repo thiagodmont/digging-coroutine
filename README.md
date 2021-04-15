@@ -16,7 +16,7 @@
 
 ## :information_source: Sobre
 
-Este é um projeto educativo aonde exploro um pouco sobre corotinas que são usadas no desenvolvimento Android.
+Este é um projeto educativo aonde exploro um pouco sobre coroutinas que são usadas no desenvolvimento Android.
 
 Aqui conseguiremos ver como elas funcionam, e seu fluxo de funcionamento.
 
