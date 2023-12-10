@@ -31,5 +31,11 @@ class HomeFragment : BaseFragment(R.layout.fragment_home) {
                 HomeFragmentDirections.actionHomeFragmentToMultiProcessFragment()
             )
         }
+
+        viewBind.mbRace.click {
+            findNavController().navigate(
+                HomeFragmentDirections.actionHomeFragmentToRaceFragment()
+            )
+        }
     }
 }

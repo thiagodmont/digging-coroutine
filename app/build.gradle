@@ -52,7 +52,7 @@ android {
         homolog {
             buildConfigField("String", "URL_NEWS_API", "\"https://newsapi.org/v2/\"")
             // Access https://newsapi.org/ to get api key;
-            buildConfigField("String", "API_KEY", "\"xxxxxxx\"")
+            buildConfigField("String", "API_KEY", "\"7d1c05c9557941b6840f9c5fd65d911f\"")
             applicationId "com.digging.coroutine"
             dimension "tier"
         }
@@ -60,7 +60,7 @@ android {
         production {
             buildConfigField("String", "URL_NEWS_API", "\"https://newsapi.org/v2/\"")
             // Access https://newsapi.org/ to get api key;
-            buildConfigField("String", "API_KEY", "\"xxxxxxx\"")
+            buildConfigField("String", "API_KEY", "\"7d1c05c9557941b6840f9c5fd65d911f\"")
             applicationId "com.digging.coroutine"
             dimension "tier"
         }
@@ -119,6 +119,9 @@ dependencies {
 
     // Multidex
     implementation "androidx.multidex:multidex:$multidex_version"
+
+    // Others
+    implementation 'com.akexorcist:RoundCornerProgressBar:2.0.3'
 
     testImplementation 'junit:junit:4.+'
     testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutines_version"
